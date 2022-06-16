@@ -1,0 +1,30 @@
+{
+  "@context": "http://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "name": "Ulmar Grafe",
+      "image": {
+        "@type": "ImageObject",
+        "contentUrl": "https://i1.rgstatic.net/ii/profile.image/272238146486293-1441918040841_Q128/Ulmar-Grafe.jpg"
+      },
+      "mainEntityOfPage": "https://www.researchgate.net/profile/Ulmar-Grafe",
+      "url": "https://www.researchgate.net/profile/Ulmar-Grafe",
+      "sameAs": "https://www.researchgate.net/profile/Ulmar-Grafe",
+      "jobTitle": "Professor",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Universiti Brunei Darussalam",
+        "url": "https://www.researchgate.net/institution/Universiti_Brunei_Darussalam"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "url": "https://www.researchgate.net/profile/Ulmar-Grafe",
+      "reviewedBy": {
+        "@type": "Person",
+        "name": "Ulmar Grafe"
+      }
+    }
+  ]
+}
